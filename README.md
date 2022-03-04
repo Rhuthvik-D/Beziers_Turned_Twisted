@@ -1,5 +1,7 @@
 # Beziers_Turned_Twisted
 
+Check it out [here](https://bezier-curve-site.netlify.app/)
+
 <!--Contents --> 
 <details>
   <summary>Contents</summary>
