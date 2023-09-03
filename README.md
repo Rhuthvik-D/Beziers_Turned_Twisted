@@ -68,7 +68,7 @@ making the curvature of the line in wide range of possibilities.
 ## <a name="lerp" />What is lerping?
 A lerp is also called as linear interpolation mathematically. It is a process of constructing
 a curve while considering 2 values, in this case two anchor points, and returns a value along 
-the line with a factor that determines the percentage of the line covered. It is an exclusive function provided by [p5.j editor](https://editor.p5js.org/).
+the line with a factor that determines the percentage of the line covered. It is an exclusive function provided by [p5.js editor](https://editor.p5js.org/).
 ```
 formula for lerping: 
 lerp(x0,x1,t) = x0 + (x1-x0)*t 
